@@ -8,7 +8,7 @@ Este script encuentra los primos circulares menores a un número dado.
 
 Ejecutar el archivo primo_cir.py con `python 2` pasando como argumento un número natural. Este número será el límite superior de la búsqueda.
 
-    python primo_cir.py 100000
+    python2 primo_cir.py 100000
     
 Salida:
 
